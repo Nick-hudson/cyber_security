@@ -19,4 +19,4 @@ Features: https://www.purevpn.com/features
  [Port Number](https://www.purevpn.com/what-is-my-ip/port-number)
  [Dangerous Social Media App](https://www.purevpn.com/blog/dangerous-social-media-apps)
  [What is IPv6 Address](https://www.purevpn.com/blog/what-is-ipv6-address-scty/)
- [Static vs Dynamic IP(https://www.purevpn.com/blog/all-about-static-vs-dynamic-ip/)
+ [Static vs Dynamic IP](https://www.purevpn.com/blog/all-about-static-vs-dynamic-ip/)
